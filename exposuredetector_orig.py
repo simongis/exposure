@@ -1,8 +1,6 @@
 ## Script to determine "exposure to coastline" for GNAF properties.
-## Written by Esri Australia.
-## Last edit: tmackey 20130218
-
 ## Requires 10.1 for features incl. arcpy.da cursors & IN_MEMORY workspace for rasters
+## Not original author of initial script
 
 import os
 import itertools
